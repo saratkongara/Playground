@@ -12,4 +12,4 @@ module Greetings
 end
 
 welcome_message = Greetings::Hello.new("welcome")
-welcome_message.greet_user("sarat")
+welcome_message.greet_user("surya")
